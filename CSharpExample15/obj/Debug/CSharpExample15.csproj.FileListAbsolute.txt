@@ -1,0 +1,6 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample15\bin\Debug\CSharpExample15.exe.config
+D:\Workspace\Projects\CSharpExamples\CSharpExample15\bin\Debug\CSharpExample15.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample15\bin\Debug\CSharpExample15.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample15\obj\Debug\CSharpExample15.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample15\obj\Debug\CSharpExample15.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample15\obj\Debug\CSharpExample15.csprojAssemblyReference.cache

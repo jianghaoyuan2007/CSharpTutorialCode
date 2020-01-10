@@ -1,0 +1,11 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\bin\Debug\netcoreapp3.1\CSharpExample28Car.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\bin\Debug\netcoreapp3.1\CSharpExample28Car.deps.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\bin\Debug\netcoreapp3.1\CSharpExample28Car.runtimeconfig.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\bin\Debug\netcoreapp3.1\CSharpExample28Car.runtimeconfig.dev.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\bin\Debug\netcoreapp3.1\CSharpExample28Car.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\bin\Debug\netcoreapp3.1\CSharpExample28Car.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\obj\Debug\netcoreapp3.1\CSharpExample28Car.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\obj\Debug\netcoreapp3.1\CSharpExample28Car.AssemblyInfoInputs.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\obj\Debug\netcoreapp3.1\CSharpExample28Car.AssemblyInfo.cs
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\obj\Debug\netcoreapp3.1\CSharpExample28Car.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Car\obj\Debug\netcoreapp3.1\CSharpExample28Car.pdb

@@ -1,0 +1,8 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample03DLL\bin\Debug\netstandard2.0\CSharpExample03DLL.deps.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample03DLL\bin\Debug\netstandard2.0\CSharpExample03DLL.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample03DLL\bin\Debug\netstandard2.0\CSharpExample03DLL.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample03DLL\obj\Debug\netstandard2.0\CSharpExample03DLL.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample03DLL\obj\Debug\netstandard2.0\CSharpExample03DLL.AssemblyInfoInputs.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample03DLL\obj\Debug\netstandard2.0\CSharpExample03DLL.AssemblyInfo.cs
+D:\Workspace\Projects\CSharpExamples\CSharpExample03DLL\obj\Debug\netstandard2.0\CSharpExample03DLL.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample03DLL\obj\Debug\netstandard2.0\CSharpExample03DLL.pdb

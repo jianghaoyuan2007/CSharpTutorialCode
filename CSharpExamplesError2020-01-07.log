@@ -1,0 +1,20 @@
+
+
+Date:2020-01-07 15:03:51,751
+Thread:[1]
+Level:ERROR
+Logger:Microsoft.SyncfusionAssemblyReference.SyncfusionAssemblyReferencePackage                         [(null)]
+Message:System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   在 System.Array.GetValue(Int32 index)
+   在 Microsoft.SyncfusionAssemblyReference.SyncfusionAssemblyReferencePackage.SyncfusionAddreferences_BeforeQueryStatus(Object sender, EventArgs e) 位置 D:\Git\RP\vext_reference_manager\SyncfusionAssemblyReference\SyncfusionAssemblyReference.cs:行号 265
+
+
+Date:2020-01-07 15:03:54,641
+Thread:[1]
+Level:ERROR
+Logger:Microsoft.Syncfusion_VSExtension_Troubleshooter.Syncfusion_VSExtension_TroubleshooterPackage                         [(null)]
+Message:System.IndexOutOfRangeException: 索引超出了数组界限。
+   在 System.Array.InternalGetReference(Void* elemRef, Int32 rank, Int32* pIndices)
+   在 System.Array.GetValue(Int32 index)
+   在 Microsoft.Syncfusion_VSExtension_Troubleshooter.Syncfusion_VSExtension_TroubleshooterPackage.queryStatusMenuCommand_BeforeQueryStatus(Object sender, EventArgs e)

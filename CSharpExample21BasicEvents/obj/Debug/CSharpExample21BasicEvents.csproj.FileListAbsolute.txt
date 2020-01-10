@@ -1,0 +1,6 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample21BasicEvents\bin\Debug\CSharpExample21BasicEvents.exe.config
+D:\Workspace\Projects\CSharpExamples\CSharpExample21BasicEvents\bin\Debug\CSharpExample21BasicEvents.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample21BasicEvents\bin\Debug\CSharpExample21BasicEvents.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample21BasicEvents\obj\Debug\CSharpExample21BasicEvents.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample21BasicEvents\obj\Debug\CSharpExample21BasicEvents.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample21BasicEvents\obj\Debug\CSharpExample21BasicEvents.pdb

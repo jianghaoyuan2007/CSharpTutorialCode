@@ -1,0 +1,6 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample04StaticSample\bin\Debug\CSharpExample04StaticSample.exe.config
+D:\Workspace\Projects\CSharpExamples\CSharpExample04StaticSample\bin\Debug\CSharpExample04StaticSample.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample04StaticSample\bin\Debug\CSharpExample04StaticSample.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample04StaticSample\obj\Debug\CSharpExample04StaticSample.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample04StaticSample\obj\Debug\CSharpExample04StaticSample.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample04StaticSample\obj\Debug\CSharpExample04StaticSample.pdb

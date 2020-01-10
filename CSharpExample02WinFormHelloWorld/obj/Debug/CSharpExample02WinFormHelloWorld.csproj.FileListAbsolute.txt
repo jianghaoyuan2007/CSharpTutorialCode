@@ -1,0 +1,9 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\bin\Debug\CSharpExample02WinFormHelloWorld.exe.config
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\bin\Debug\CSharpExample02WinFormHelloWorld.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\bin\Debug\CSharpExample02WinFormHelloWorld.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\obj\Debug\CSharpExample02WinFormHelloWorld.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\obj\Debug\CSharpExample02WinFormHelloWorld.Properties.Resources.resources
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\obj\Debug\CSharpExample02WinFormHelloWorld.csproj.GenerateResource.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\obj\Debug\CSharpExample02WinFormHelloWorld.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\obj\Debug\CSharpExample02WinFormHelloWorld.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample02WinFormHelloWorld\obj\Debug\CSharpExample02WinFormHelloWorld.Form1.resources

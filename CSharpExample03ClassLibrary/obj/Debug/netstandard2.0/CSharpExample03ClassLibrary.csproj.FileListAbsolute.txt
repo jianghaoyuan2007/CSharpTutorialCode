@@ -1,0 +1,8 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample03ClassLibrary\bin\Debug\netstandard2.0\CSharpExample03ClassLibrary.deps.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample03ClassLibrary\bin\Debug\netstandard2.0\CSharpExample03ClassLibrary.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample03ClassLibrary\bin\Debug\netstandard2.0\CSharpExample03ClassLibrary.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample03ClassLibrary\obj\Debug\netstandard2.0\CSharpExample03ClassLibrary.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample03ClassLibrary\obj\Debug\netstandard2.0\CSharpExample03ClassLibrary.AssemblyInfoInputs.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample03ClassLibrary\obj\Debug\netstandard2.0\CSharpExample03ClassLibrary.AssemblyInfo.cs
+D:\Workspace\Projects\CSharpExamples\CSharpExample03ClassLibrary\obj\Debug\netstandard2.0\CSharpExample03ClassLibrary.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample03ClassLibrary\obj\Debug\netstandard2.0\CSharpExample03ClassLibrary.pdb

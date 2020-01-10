@@ -1,0 +1,14 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\bin\Debug\netcoreapp3.1\CSharpExample28Fan.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\bin\Debug\netcoreapp3.1\CSharpExample28Fan.deps.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\bin\Debug\netcoreapp3.1\CSharpExample28Fan.runtimeconfig.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\bin\Debug\netcoreapp3.1\CSharpExample28Fan.runtimeconfig.dev.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\bin\Debug\netcoreapp3.1\CSharpExample28Fan.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\bin\Debug\netcoreapp3.1\CSharpExample28Fan.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\obj\Debug\netcoreapp3.1\CSharpExample28Fan.AssemblyInfoInputs.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\obj\Debug\netcoreapp3.1\CSharpExample28Fan.AssemblyInfo.cs
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\obj\Debug\netcoreapp3.1\CSharpExample28Fan.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\obj\Debug\netcoreapp3.1\CSharpExample28Fan.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\obj\Debug\netcoreapp3.1\CSharpExample28Fan.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\bin\Debug\netcoreapp3.1\Moq.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Fan\obj\Debug\netcoreapp3.1\CSharpExample28Fan.csproj.CopyComplete

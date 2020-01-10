@@ -1,0 +1,14 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\bin\Debug\CSharpExample12.exe.config
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\bin\Debug\CSharpExample12.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\bin\Debug\CSharpExample12.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\CSharpExample12.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\MainWindow.g.cs
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\App.g.cs
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\CSharpExample12_MarkupCompile.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\CSharpExample12_MarkupCompile.lref
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\MainWindow.baml
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\CSharpExample12.g.resources
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\CSharpExample12.Properties.Resources.resources
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\CSharpExample12.csproj.GenerateResource.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\CSharpExample12.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample12\obj\Debug\CSharpExample12.pdb

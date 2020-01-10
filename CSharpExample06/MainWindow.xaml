@@ -1,0 +1,14 @@
+﻿<Window x:Class="CSharpExample06.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CSharpExample06"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="button1">
+        <Button Content="Consume Memory" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="775" Height="165" Click="Button_Click"/>
+        <Button x:Name="button2" Content="Resume Memory" HorizontalAlignment="Left" Margin="10,180,0,0" VerticalAlignment="Top" Width="775" Height="232" Click="button2_Click"/>
+
+    </Grid>
+</Window>

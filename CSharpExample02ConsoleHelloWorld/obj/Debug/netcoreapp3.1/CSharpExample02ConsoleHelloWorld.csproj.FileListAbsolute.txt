@@ -1,0 +1,11 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\bin\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\bin\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.deps.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\bin\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.runtimeconfig.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\bin\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.runtimeconfig.dev.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\bin\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\bin\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\obj\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\obj\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.AssemblyInfoInputs.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\obj\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.AssemblyInfo.cs
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\obj\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample02ConsoleHelloWorld\obj\Debug\netcoreapp3.1\CSharpExample02ConsoleHelloWorld.pdb

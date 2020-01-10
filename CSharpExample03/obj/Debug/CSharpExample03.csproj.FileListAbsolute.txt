@@ -1,0 +1,11 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\bin\Debug\CSharpExample03.exe.config
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\bin\Debug\CSharpExample03.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\bin\Debug\CSharpExample03.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\bin\Debug\CSharpExample03ClassLibrary.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\bin\Debug\CSharpExample03ClassLibrary.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\obj\Debug\CSharpExample03.csprojAssemblyReference.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\obj\Debug\CSharpExample03.csproj.CopyComplete
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\obj\Debug\CSharpExample03.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\obj\Debug\CSharpExample03.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\bin\Debug\CSharpExample03DLL.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample03\bin\Debug\CSharpExample03DLL.pdb

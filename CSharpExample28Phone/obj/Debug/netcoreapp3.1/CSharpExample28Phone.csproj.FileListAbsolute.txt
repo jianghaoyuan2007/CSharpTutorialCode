@@ -1,0 +1,11 @@
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\bin\Debug\netcoreapp3.1\CSharpExample28Phone.exe
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\bin\Debug\netcoreapp3.1\CSharpExample28Phone.deps.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\bin\Debug\netcoreapp3.1\CSharpExample28Phone.runtimeconfig.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\bin\Debug\netcoreapp3.1\CSharpExample28Phone.runtimeconfig.dev.json
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\bin\Debug\netcoreapp3.1\CSharpExample28Phone.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\bin\Debug\netcoreapp3.1\CSharpExample28Phone.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\obj\Debug\netcoreapp3.1\CSharpExample28Phone.AssemblyInfoInputs.cache
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\obj\Debug\netcoreapp3.1\CSharpExample28Phone.AssemblyInfo.cs
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\obj\Debug\netcoreapp3.1\CSharpExample28Phone.dll
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\obj\Debug\netcoreapp3.1\CSharpExample28Phone.pdb
+D:\Workspace\Projects\CSharpExamples\CSharpExample28Phone\obj\Debug\netcoreapp3.1\CSharpExample28Phone.csprojAssemblyReference.cache
