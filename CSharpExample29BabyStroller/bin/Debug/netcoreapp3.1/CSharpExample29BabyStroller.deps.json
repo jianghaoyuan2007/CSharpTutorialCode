@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CSharpExample29BabyStroller/1.0.0": {
+        "dependencies": {
+          "CSharpExample29BabyStrollerSDK": "1.0.0"
+        },
+        "runtime": {
+          "CSharpExample29BabyStroller.dll": {}
+        }
+      },
+      "CSharpExample29BabyStrollerSDK/1.0.0": {
+        "runtime": {
+          "CSharpExample29BabyStrollerSDK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpExample29BabyStroller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CSharpExample29BabyStrollerSDK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

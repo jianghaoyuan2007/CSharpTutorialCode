@@ -1,0 +1,17 @@
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\CSharpExample29.exe
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\CSharpExample29.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\obj\Debug\CSharpExample29.csprojAssemblyReference.cache
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\obj\Debug\CSharpExample29.exe
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\obj\Debug\CSharpExample29.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\CSharpExample29.exe.config
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29\obj\Debug\CSharpExample29.csproj.CopyComplete

@@ -1,0 +1,5 @@
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample31\bin\Debug\CSharpExample31.exe
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample31\bin\Debug\CSharpExample31.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample31\obj\Debug\CSharpExample31.csprojAssemblyReference.cache
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample31\obj\Debug\CSharpExample31.exe
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample31\obj\Debug\CSharpExample31.pdb

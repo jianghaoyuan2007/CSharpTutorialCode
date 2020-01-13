@@ -1,0 +1,5 @@
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample22CustomEvents\bin\Debug\CSharpExample22CustomEvents.exe
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample22CustomEvents\bin\Debug\CSharpExample22CustomEvents.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample22CustomEvents\obj\Debug\CSharpExample22CustomEvents.csprojAssemblyReference.cache
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample22CustomEvents\obj\Debug\CSharpExample22CustomEvents.exe
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample22CustomEvents\obj\Debug\CSharpExample22CustomEvents.pdb

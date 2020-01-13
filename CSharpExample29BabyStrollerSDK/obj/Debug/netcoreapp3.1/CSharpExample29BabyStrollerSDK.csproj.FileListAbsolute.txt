@@ -1,0 +1,7 @@
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStrollerSDK\bin\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.deps.json
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStrollerSDK\bin\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStrollerSDK\bin\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStrollerSDK\obj\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.AssemblyInfoInputs.cache
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStrollerSDK\obj\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.AssemblyInfo.cs
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStrollerSDK\obj\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStrollerSDK\obj\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.pdb

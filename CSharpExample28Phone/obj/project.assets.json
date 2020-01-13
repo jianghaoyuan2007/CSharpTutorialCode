@@ -5105,11 +5105,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\Projects\\CSharpExamples\\CSharpExample28Phone\\CSharpExample28Phone.csproj",
+      "projectUniqueName": "C:\\Users\\Stephen Chiang\\Desktop\\CSharpExamples\\CSharpExamples\\CSharpExample28Phone\\CSharpExample28Phone.csproj",
       "projectName": "CSharpExample28Phone",
-      "projectPath": "D:\\Workspace\\Projects\\CSharpExamples\\CSharpExample28Phone\\CSharpExample28Phone.csproj",
+      "projectPath": "C:\\Users\\Stephen Chiang\\Desktop\\CSharpExamples\\CSharpExamples\\CSharpExample28Phone\\CSharpExample28Phone.csproj",
       "packagesPath": "C:\\Users\\Stephen Chiang\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\Projects\\CSharpExamples\\CSharpExample28Phone\\obj\\",
+      "outputPath": "C:\\Users\\Stephen Chiang\\Desktop\\CSharpExamples\\CSharpExamples\\CSharpExample28Phone\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stephen Chiang\\AppData\\Roaming\\NuGet\\NuGet.Config",

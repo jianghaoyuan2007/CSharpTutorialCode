@@ -1,0 +1,14 @@
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\bin\Debug\netcoreapp3.1\CSharpExample29BabyStroller.exe
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\bin\Debug\netcoreapp3.1\CSharpExample29BabyStroller.deps.json
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\bin\Debug\netcoreapp3.1\CSharpExample29BabyStroller.runtimeconfig.json
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\bin\Debug\netcoreapp3.1\CSharpExample29BabyStroller.runtimeconfig.dev.json
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\bin\Debug\netcoreapp3.1\CSharpExample29BabyStroller.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\bin\Debug\netcoreapp3.1\CSharpExample29BabyStroller.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\obj\Debug\netcoreapp3.1\CSharpExample29BabyStroller.csprojAssemblyReference.cache
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\obj\Debug\netcoreapp3.1\CSharpExample29BabyStroller.AssemblyInfoInputs.cache
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\obj\Debug\netcoreapp3.1\CSharpExample29BabyStroller.AssemblyInfo.cs
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\obj\Debug\netcoreapp3.1\CSharpExample29BabyStroller.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\obj\Debug\netcoreapp3.1\CSharpExample29BabyStroller.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\bin\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\bin\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29BabyStroller\obj\Debug\netcoreapp3.1\CSharpExample29BabyStroller.csproj.CopyComplete

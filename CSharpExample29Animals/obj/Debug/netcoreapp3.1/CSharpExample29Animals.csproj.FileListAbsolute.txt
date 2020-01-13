@@ -1,0 +1,10 @@
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\bin\Debug\netcoreapp3.1\CSharpExample29Animals.deps.json
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\bin\Debug\netcoreapp3.1\CSharpExample29Animals.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\bin\Debug\netcoreapp3.1\CSharpExample29Animals.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\obj\Debug\netcoreapp3.1\CSharpExample29Animals.AssemblyInfoInputs.cache
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\obj\Debug\netcoreapp3.1\CSharpExample29Animals.AssemblyInfo.cs
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\obj\Debug\netcoreapp3.1\CSharpExample29Animals.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\obj\Debug\netcoreapp3.1\CSharpExample29Animals.pdb
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\bin\Debug\netcoreapp3.1\CSharpExample29BabyStrollerSDK.dll
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\obj\Debug\netcoreapp3.1\CSharpExample29Animals.csprojAssemblyReference.cache
+C:\Users\Stephen Chiang\Desktop\CSharpExamples\CSharpExamples\CSharpExample29Animals\obj\Debug\netcoreapp3.1\CSharpExample29Animals.csproj.CopyComplete

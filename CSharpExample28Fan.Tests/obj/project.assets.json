@@ -7022,11 +7022,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\Projects\\CSharpExamples\\CSharpExample28Fan.Tests\\CSharpExample28Fan.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Stephen Chiang\\Desktop\\CSharpExamples\\CSharpExamples\\CSharpExample28Fan.Tests\\CSharpExample28Fan.Tests.csproj",
       "projectName": "CSharpExample28Fan.Tests",
-      "projectPath": "D:\\Workspace\\Projects\\CSharpExamples\\CSharpExample28Fan.Tests\\CSharpExample28Fan.Tests.csproj",
+      "projectPath": "C:\\Users\\Stephen Chiang\\Desktop\\CSharpExamples\\CSharpExamples\\CSharpExample28Fan.Tests\\CSharpExample28Fan.Tests.csproj",
       "packagesPath": "C:\\Users\\Stephen Chiang\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\Projects\\CSharpExamples\\CSharpExample28Fan.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Stephen Chiang\\Desktop\\CSharpExamples\\CSharpExamples\\CSharpExample28Fan.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stephen Chiang\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -7042,8 +7042,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\Workspace\\Projects\\CSharpExamples\\CSharpExample28Fan\\CSharpExample28Fan.csproj": {
-              "projectPath": "D:\\Workspace\\Projects\\CSharpExamples\\CSharpExample28Fan\\CSharpExample28Fan.csproj"
+            "C:\\Users\\Stephen Chiang\\Desktop\\CSharpExamples\\CSharpExamples\\CSharpExample28Fan\\CSharpExample28Fan.csproj": {
+              "projectPath": "C:\\Users\\Stephen Chiang\\Desktop\\CSharpExamples\\CSharpExamples\\CSharpExample28Fan\\CSharpExample28Fan.csproj"
             }
           }
         }

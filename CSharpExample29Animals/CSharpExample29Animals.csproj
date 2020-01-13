@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="CSharpExample29BabyStrollerSDK">
+      <HintPath>..\..\..\CSharpExample29BabyStrollerSDK.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
